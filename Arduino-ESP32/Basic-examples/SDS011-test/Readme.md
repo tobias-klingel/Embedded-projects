@@ -1,11 +1,12 @@
 # SDS011 particle sensor with ESP32 in Arduino
 
-##Introduction
+## Introduction
 
 This project is for testing purpose and provides a working example to read out the fine dust sensor SDS011. This sensor measures PM 2.5 and PM 10 air particle count in μg/m3. 
 
-###Usage
-Just compline and upload the ".ino" file to the board, connect the sensor as shown below and the data shall be shown in the serial terminal.
+### Usage
+
+Just compile and upload the ".ino" file to the board, connect the sensor as shown below and the data shall be shown in the serial terminal.
 
 
 ### Schematic
